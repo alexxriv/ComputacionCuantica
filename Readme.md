@@ -13,6 +13,8 @@ También se utiliza python.
 
 ## Contenido 
 
+Primera Parte 
+
 1. [Prerequisitos](/teoria/PrimeraParte.md#prerequisitos)
 2. [Introducción](/teoria/PrimeraParte.md#introducción)
 3. [¿Por qué utilizar la física cuántica?](/teoria/PrimeraParte.md#¿por-qué-utilizar-la-física-cuántica)
@@ -21,6 +23,8 @@ También se utiliza python.
 6. [Componentes](/teoria/PrimeraParte.md#componentes)
 7. [La dualidad de partícula-molécula](/teoria/PrimeraParte.md#la-dualidad-de-partícula-molécula)
 8. [Propiedades cuánticas](/teoria/PrimeraParte.md#propiedades-cuánticas)
+
+Segunda Parte
 
 ---
 <sub> Autor: [@alexxriv](https://github.com/alexxriv)</sub>

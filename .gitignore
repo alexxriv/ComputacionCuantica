@@ -1,3 +1,6 @@
 /practica/notebooks
 .DS_Store
 /img
+.venv
+.env
+/practica/.ipynb_checkpoints

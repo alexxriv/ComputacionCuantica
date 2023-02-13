@@ -30,7 +30,7 @@ La ley de Moore establece que el número de transistores por dispositivo se dupl
 Hoy en día las computadoras cuánticas no son escalables o vialbes de manera comercial. Se estima que haya una mayor adaptación en 10 a 15 años.
 
 
-## Componentes de la computación cuántica
+## Componentes
 
 ### Qubits
 

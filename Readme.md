@@ -11,9 +11,10 @@ La parte práctica da una introducción al lenguaje qsharp. Un lenguaje desarrol
 
 También se utiliza python.
 
-## Contenido 
+## **Contenido** 
 
-Primera Parte 
+### **Teoría**
+#### **Primera Parte**
 
 1. [Prerequisitos](/teoria/PrimeraParte.md#prerequisitos)
 2. [Introducción](/teoria/PrimeraParte.md#introducción)
@@ -24,7 +25,15 @@ Primera Parte
 7. [La dualidad de partícula-molécula](/teoria/PrimeraParte.md#la-dualidad-de-partícula-molécula)
 8. [Propiedades cuánticas](/teoria/PrimeraParte.md#propiedades-cuánticas)
 
-Segunda Parte
+#### **Segunda Parte**
+
+*En proceso*
+
+### **Qsharp**:
+0. [Como ejecutar Q# en un notebook de jupyter con Azure](/practica/Parte_0.md)
+1. [Creando un generador de números aleatorios](/practica/Parte_1.ipynb)
+2.  *en proceso* [Implementando la distribución de claves cuánticas](/practica/)
+3.  *en proceso* [Implementando Eigensolver Variacional Cuántico](/practica/) Referencia: [Variational Quantum Eigensolver (VQE)](https://arxiv.org/pdf/2111.05176.pdf)
 
 ---
 <sub> Autor: [@alexxriv](https://github.com/alexxriv)</sub>

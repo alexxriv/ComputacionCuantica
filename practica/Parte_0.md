@@ -33,7 +33,7 @@ Para registrarse en azure entra al sitio principal de azure:
 ![imagen](/img/azure/azure8.png)
 
 #### Da click en `Create Quantum Workspace`:
-![imagen](/img/azure/azure10.png)
+![imagen](/img/azure/azure8.png)
 
 #### Selecciona `Quick Create`:
 ![imagen](/img/azure/azure10.png)

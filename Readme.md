@@ -1,7 +1,7 @@
 # Computación Cuántica
 
-
 Esta es una guía completa de computación y programación cuántica.
+Es una recopilación de información en internet traducida a español.
 
 Esta guía se divide en una parte teórica y una parte práctica.
 
@@ -34,6 +34,10 @@ También se utiliza python.
 1. [Creando un generador de números aleatorios](/practica/Parte_1.ipynb)
 2.  *en proceso* [Implementando la distribución de claves cuánticas](/practica/)
 3.  *en proceso* [Implementando Eigensolver Variacional Cuántico](/practica/) Referencia: [Variational Quantum Eigensolver (VQE)](https://arxiv.org/pdf/2111.05176.pdf)
+---
+#### Contribuciones
+
+Si encuentras un error o contribuir con un nuevo recurso abre un pull request mencionando los mencionando los cambios que has realizado.
 
 ---
 <sub> Autor: [@alexxriv](https://github.com/alexxriv)</sub>

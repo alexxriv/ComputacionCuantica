@@ -15,7 +15,7 @@ Actualmente toda la tecnología que nos rodea esta contruida utilizando los prin
 
 La física cuántica describe como se comportan los objetos reducidos en tamaño como los átomos y electrones. Este comportamiento es totalmente diferente a lo que estamos acostumbrados en la vida diaria y puede llegar a ser contraintuitivo.
 
-La **computación cuántica** es una rama de la computación que pretende cambiar la manera en la que pensamos de la tecnología. No solo implica utilziar un nuevo lenguaje de programación para crear programas, sino que también hace uso de propiedades de la física cuántica como la superposición, interferencia y entrelazamiento cuántico. Utiliza estas propiedades para crear computadoras más rápidas y poderosas, resolviendo problemas de una manera **TOTALMENTE** diferente a como estamos acostumbrados.
+La **computación cuántica** es una rama de la computación que pretende cambiar la manera en la que pensamos de la tecnología. No solo implica utilizar un nuevo lenguaje de programación para crear programas, sino que también hace uso de propiedades de la física cuántica como la superposición, interferencia y entrelazamiento cuántico. Utiliza estas propiedades para crear computadoras más rápidas y poderosas, resolviendo problemas de una manera **TOTALMENTE** diferente a como estamos acostumbrados.
 
 ## ¿Por qué utilizar la física cuántica?
 La ley de Moore establece que el número de transistores por dispositivo se duplicará cada dos años. Esto implica el tener que crear componentes más pequeños y hemos llegado a un punto en el que las leyes de la física cuántica están interfiriendo con el funcionamiento de nuestras computadoras. Además, teóricamente, podemos utilizar propiedades de la físca cuántica para resolver problemas a los que aún no tenemos soluciones óptimas como la **busqueda, simulación, factorización y encriptación segura.**
@@ -27,7 +27,7 @@ La ley de Moore establece que el número de transistores por dispositivo se dupl
 
 ## Ecosistema actual
 
-Hoy en día las computadoras cuánticas no son escalables o vialbes de manera comercial. Se estima que haya una mayor adaptación en 10 a 15 años.
+Hoy en día las computadoras cuánticas no son escalables o viables de manera comercial. Se estima que haya una mayor adaptación en 10 a 15 años.
 
 
 ## Componentes

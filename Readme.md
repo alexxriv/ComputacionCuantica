@@ -30,7 +30,7 @@ También se utiliza python.
 *En proceso*
 
 ### **Qsharp**:
-0. [Como ejecutar Q# en un notebook de jupyter con Azure](/practica/Parte_0.md)
+0. [Como ejecutar Q# en un notebook de jupyter con Azure](/practica/README.md)
 1. [Creando un generador de números aleatorios](/practica/Parte_1.ipynb)
 2.  *en proceso* [Implementando la distribución de claves cuánticas](/practica/)
 3.  *en proceso* [Implementando Eigensolver Variacional Cuántico](/practica/) Referencia: [Variational Quantum Eigensolver (VQE)](https://arxiv.org/pdf/2111.05176.pdf)

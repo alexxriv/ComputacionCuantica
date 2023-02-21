@@ -16,14 +16,14 @@ También se utiliza python.
 ### **Teoría**
 #### **Primera Parte**
 
-1. [Prerequisitos](/teoria/PrimeraParte.md#prerequisitos)
-2. [Introducción](/teoria/PrimeraParte.md#introducción)
-3. [¿Por qué utilizar la física cuántica?](/teoria/PrimeraParte.md#¿por-qué-utilizar-la-física-cuántica)
-4. [Aplicaciones](/teoria/PrimeraParte.md#aplicaciones)
-5. [Ecosistema Actual](/teoria/PrimeraParte.md#ecosistema-actual)
-6. [Componentes](/teoria/PrimeraParte.md#componentes)
-7. [La dualidad de partícula-molécula](/teoria/PrimeraParte.md#la-dualidad-de-partícula-molécula)
-8. [Propiedades cuánticas](/teoria/PrimeraParte.md#propiedades-cuánticas)
+1. [Prerequisitos](/teoria/README.md#prerequisitos)
+2. [Introducción](/teoria/README.md#introducción)
+3. [¿Por qué utilizar la física cuántica?](/teoria/README.md#¿por-qué-utilizar-la-física-cuántica)
+4. [Aplicaciones](/teoria/README.md#aplicaciones)
+5. [Ecosistema Actual](/teoria/README.md#ecosistema-actual)
+6. [Componentes](/teoria/README.md#componentes)
+7. [La dualidad de partícula-molécula](/teoria/README.md#la-dualidad-de-partícula-molécula)
+8. [Propiedades cuánticas](/teoria/README.md#propiedades-cuánticas)
 
 #### **Segunda Parte**
 

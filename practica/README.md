@@ -46,7 +46,3 @@ Para registrarse en azure entra al sitio principal de azure:
 
 
 #### Listo! Tu notebook está listo para ejecutar Q#, puedes continuar al tutorial dentro del notebook :).
-
-
-### Importante:
-Toda sección de los notebooks después
